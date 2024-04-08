@@ -12,8 +12,3 @@ variable "Name" {
   description = "Name tag of the instance"
   type = string
 }
-
-variable "count" {
-  description = "Number of instances to create"
-  type = number
-}
